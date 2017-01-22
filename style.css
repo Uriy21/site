@@ -1,0 +1,14 @@
+body {
+	background: blue;
+}
+h1 {
+	position: relative;
+	left:650px;
+	color: white;
+}
+p {
+	position: relative;
+	top:20px;
+	left:650px;
+	color:white;
+}
